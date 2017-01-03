@@ -1,0 +1,4 @@
+Phoneworld.MainActivity, Phoneworld;md5296669489fc4bad24ec864ce3e849da0.MainActivity
+Phoneworld.MainActivity, Phoneworld, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5296669489fc4bad24ec864ce3e849da0.MainActivity
+Phoneworld.MainActivity;md5296669489fc4bad24ec864ce3e849da0.MainActivity
+phoneworld.MainActivity;md5296669489fc4bad24ec864ce3e849da0.MainActivity

@@ -1,0 +1,15 @@
+C:\Users\mbriseno\documents\visual studio 2015\Projects\Phoneworld\Phoneworld\bin\Debug\Phoneworld.dll
+C:\Users\mbriseno\documents\visual studio 2015\Projects\Phoneworld\Phoneworld\bin\Debug\Phoneworld.pdb
+C:\Users\mbriseno\documents\visual studio 2015\Projects\Phoneworld\Phoneworld\bin\Debug\Phoneworld.Phoneworld.apk
+C:\Users\mbriseno\documents\visual studio 2015\Projects\Phoneworld\Phoneworld\bin\Debug\Phoneworld.Phoneworld-Signed.apk
+C:\Users\mbriseno\documents\visual studio 2015\Projects\Phoneworld\Phoneworld\obj\Debug\Phoneworld.csprojResolveAssemblyReference.cache
+C:\Users\mbriseno\documents\visual studio 2015\Projects\Phoneworld\Phoneworld\obj\Debug\Phoneworld.dll
+C:\Users\mbriseno\documents\visual studio 2015\Projects\Phoneworld\Phoneworld\obj\Debug\Phoneworld.pdb
+C:\Users\mbriseno\documents\visual studio 2015\Projects\Phoneworld\Phoneworld\obj\Debug\android\bin\Phoneworld.Phoneworld.apk
+C:\Users\mbriseno\documents\visual studio 2015\Projects\Phoneworld\Phoneworld\obj\Debug\res\layout\main.xml
+C:\Users\mbriseno\documents\visual studio 2015\Projects\Phoneworld\Phoneworld\obj\Debug\res\values\strings.xml
+C:\Users\mbriseno\documents\visual studio 2015\Projects\Phoneworld\Phoneworld\obj\Debug\res\drawable\icon.png
+C:\Users\mbriseno\documents\visual studio 2015\Projects\Phoneworld\Phoneworld\obj\Debug\R.cs.flag
+C:\Users\mbriseno\documents\visual studio 2015\Projects\Phoneworld\Phoneworld\obj\Debug\uploadflags.txt
+C:\Users\mbriseno\documents\visual studio 2015\Projects\Phoneworld\Phoneworld\obj\Debug\Phoneworld.dll.mdb
+C:\Users\mbriseno\documents\visual studio 2015\Projects\Phoneworld\Phoneworld\bin\Debug\Phoneworld.dll.mdb
